@@ -30,7 +30,7 @@ force-https: True
 
 lang: "en"
 author: "YZ"
-title: "{ YZ }"
+title: "YZ"
 description: "Blog and website of John Smith, blogging mainly for tech. Opinions expressed are mine."
 keywords: "smith, jones, personal, jekyll, theme"
 favicon: "/img/favicon.ico"
@@ -42,7 +42,7 @@ favicon: "/img/favicon.ico"
 black-favicon: "/img/black-lab-glass.ico"
 logo: "/img/author.png" # leave blank if you don't want a logo
 
-background-img: "../img/intro-bg.jpg"
+background-img: "../img/yz.jpg"
 
 ##############################
 # Dynamic Text on the Header #
@@ -201,10 +201,10 @@ keybase-in-footer: True
 # Sections shown in the index page
 
 pages_list:
-  About: 'about'
-  Blog: 'latest-post'
-  Timeline: 'timeline'
-  Contact: 'contact'
+  介绍: 'about'
+  笔记: 'latest-post'
+  随笔: 'timeline'
+  联系: 'contact'
 
 # Exclusion list from the generated _site
 
