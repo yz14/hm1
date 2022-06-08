@@ -57,9 +57,9 @@ start-delay: 200
 delete-delay: 5000
 lines: # You can add HTML Tags in the Text
   - text: "严于律己，宽以待人"
-  - text: "Welcome"
+  - text: "这是一个测试，这是一个测试，这是一个测试，这是一个测试，这是一个测试，"
 
-me-img: "/img/jetpacktocat.png"
+# me-img: "/img/jetpacktocat.png"
 
 # To use facebook profile pic comment the previous line and uncomment the following
 # line, and replace 'user_id' with your facebook user id.
